@@ -22,3 +22,4 @@ function aumentaTamanho() {
 }
 
 const compoSenha = document.querySelector(#campo-senha);
+const letrasMaiusculas = 
