@@ -20,3 +20,5 @@ function aumentaTamanho() {
     }
     numeroSenha.textContent = tamanhoSenha;
 }
+
+const compoSenha = document.querySelector(#campo-senha);
